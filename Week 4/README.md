@@ -1,3 +1,3 @@
-#Password-Strength-Meter
+## Password-Strength-Meter
 
-###An application to detect and show password strength built using Vue
+##### An application to detect and show password strength built using Vue
